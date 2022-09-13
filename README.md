@@ -1,10 +1,25 @@
-# Site da Barbearia Alura
+<h1>Site da Barbearia Alura</h1>
 
-Exercício do Curso de HTML5 e CSS3 da Alura - Front-end - 32hs<br>
+<p>Projeto criado durante o Curso de <strong>HTML5</strong> e <strong>CSS3</strong> da Plataforma <strong>Alura</trong>.br></p>
 
->HTML5 e CSS3 parte 1: crie uma página da Web (de 25/02/2022 a 26/02/2022) 8hrs<br>
->HTML5 e CSS3 parte 2: posicionamento, listas e navegação (de 26/02/2022 a 04/03/2022) 8hrs<br>
->HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas (de 08/03/2022 a 10/03/2022) 8hrs<br>
->HTML5 e CSS3 parte 4: avançando no CSS (de 10/03/2022 a 26/04/2022) 8hrs<br>
-
-Certificado: https://cursos.alura.com.br/user/mizenha16/fullCertificate/24848dec707afcac85fd48f089800bee
+<table>
+    <tr>
+        <td>
+        <h3>HTML5 e CSS3 parte 1: crie uma página da Web</h3>
+        <p>🔹 Alura <br><br> ⏰ Carga Horária: 8h<br><br> 📜 Certificado: <a href="https://cursos.alura.com.br/user/mizenha16/fullCertificate/24848dec707afcac85fd48f089800bee" target="_blank">24848dec707afcac85fd48f089800bee</a></p>
+        </td>
+        <td>
+        <h3>HTML5 e CSS3 parte 2: posicionamento, listas e navegação</h3>
+        <p>🔹 Alura <br><br> ⏰ Carga Horária: 8h<br><br> 📜 Certificado: <a href="https://cursos.alura.com.br/user/mizenha16/fullCertificate/24848dec707afcac85fd48f089800bee" target="_blank">24848dec707afcac85fd48f089800bee</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <h3>HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas</h3>
+        <p>🔹  Alura <br><br> ⏰ Carga Horária: 8h<br><br> 📜 Certificado: <a href="https://cursos.alura.com.br/user/mizenha16/fullCertificate/24848dec707afcac85fd48f089800bee" target="_blank">24848dec707afcac85fd48f089800bee</a></p>
+        </td>
+        <td>
+        <h3>HTML5 e CSS3 parte 4: avançando no CSS</h3>
+        <p>🔹  Alura <br><br> ⏰ Carga Horária: 8h<br><br> 📜 Certificado: <a href="https://cursos.alura.com.br/user/mizenha16/fullCertificate/24848dec707afcac85fd48f089800bee" target="_blank">24848dec707afcac85fd48f089800bee</a></p>
+        </td>
+    </tr>
