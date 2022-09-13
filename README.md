@@ -1,6 +1,6 @@
 <h1>Site da Barbearia Alura</h1>
 
-<p>Projeto criado durante o Curso de <strong>HTML5</strong> e <strong>CSS3</strong> da Plataforma <strong>Alura</trong>.br></p>
+<p>Projeto criado durante o Curso de <strong>HTML5</strong> e <strong>CSS3</strong> da Plataforma <strong>Alura</trong>.<br></p>
 
 <table>
     <tr>
